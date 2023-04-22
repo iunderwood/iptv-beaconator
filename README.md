@@ -132,6 +132,6 @@ ZeeVee beacons are based upon available documentation and a small amount of reve
 
 ## References
 
-* [ZeeVee: Intelligent AV Distribution](9https://www.zeevee.com/)
+* [ZeeVee: Intelligent AV Distribution](https://www.zeevee.com/)
 * [RFC 2974: Session Announcement Protocol](https://www.rfc-editor.org/rfc/rfc2974)
 * [RFC 8866: Session Description Protocol](https://www.rfc-editor.org/rfc/rfc8866)
