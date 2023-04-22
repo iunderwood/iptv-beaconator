@@ -1,0 +1,103 @@
+beacon:
+  -
+    type: sap
+    groupAddr: 224.2.127.254
+    groupPort: 9875
+    interval: 60
+  -
+    type: zeevee
+    groupAddr: 239.13.1.19
+    groupPort: 21217
+    interval: 4
+
+lineup:
+  -
+    channelName: WBZ HD
+    channelNumber: 4-1
+    channelGroupIP: 239.255.1.1
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Start TV
+    channelNumber: 4-2
+    channelGroupIP: 239.255.1.2
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Dabl
+    channelNumber: 4-3
+    channelGroupIP: 239.255.1.3
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Fave TV
+    channelNumber: 4-4
+    channelGroupIP: 239.255.1.4
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: WSBK-TV
+    channelNumber: 38-1
+    channelGroupIP: 239.255.2.1
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Heroes
+    channelNumber: 38-2
+    channelGroupIP: 239.255.2.2
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: TBD
+    channelNumber: 38-3
+    channelGroupIP: 239.255.2.3
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Charge
+    channelNumber: 38-4
+    channelGroupIP: 239.255.2.4
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: Circle
+    channelNumber: 38-5
+    channelGroupIP: 239.255.2.5
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
+  -
+    channelName: CourtTV
+    channelNumber: 66-4
+    channelGroupIP: 239.255.2.6
+    channelSourceIP: 172.30.0.141
+    channelSourcePort: 28001
+    announce:
+      - sap
+      - zeevee
